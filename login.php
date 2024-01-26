@@ -1,4 +1,9 @@
 <?php
+// Check if 'code' parameter is set in the URL
+if (isset($_GET['code'])) {
+    // Display the highlighted source code of this file and terminate execution
+    die(highlight_file(__FILE__, 1));
+}
 require_once("conf.php");
 global $yhendus;
 session_start();
@@ -22,9 +27,9 @@ if (!empty($_POST['login']) && !empty($_POST['pass'])) {
         $_SESSION['kasutaja'] = $login;
         $_SESSION['onAdmin'] = $onAdmin;
         if ($onAdmin == 1) {
-            header('Location: adminLeht.php');}
+            header('Location: veoAdminLeht.php');}
         else {
-                header('Location: haldusLeht.php');
+                header('Location: veoLisamine.php');
             }
             $yhendus->close();
             exit();
@@ -37,12 +42,36 @@ if (!empty($_POST['login']) && !empty($_POST['pass'])) {
 ?>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="formStyle.css">
     <title>Tantsud tähtedega</title>
 </head>
 <h1>Login</h1>
 <form action="" method="post">
-    Login: <input type="text" name="login"><br>
-    Password: <input type="password" name="pass"><br>
-    <input type="submit" value="Logi sisse">
+<table>
+    <tr>
+        <td>
+            <input type="text" name="login" placeholder="login"><br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="password" name="pass" placeholder="pass"><br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="submit" value="Logi sisse">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="veoLisamine.php">X</a>
+        </td>
+    </tr>
+</table>
 </form>
+
+
+
+
+
