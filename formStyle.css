@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: firebrick;
+  margin: 20px;
+}
+
+td{
+  border: none;
+  width : 33.3%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  margin: 20px 0;
+  color: white;
+  font-family: "Arial Black";
+}
+
+table {
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+input[type="text"],
+input[type="password"]
+{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+form {
+  text-align: center;
+}
+
+form table {
+  margin-top: 20px;
+}
+
+input[type="submit"]
+{
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: firebrick;
+  color: white;
+  font-family: "Arial Black";
+}
+
+input[type="submit"]:hover
+{
+  background-color: maroon;
+}
+
+a {
+  font-family: "Arial Black";
+  display: flex;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: firebrick;
+  width: 35px
+}
+
+a:hover {
+  background-color: maroon;
+  color: white;
+  text-decoration: none;
+}
+
+#logout{
+  width: 127px;
+}
