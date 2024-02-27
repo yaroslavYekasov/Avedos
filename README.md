@@ -1,4 +1,4 @@
-**[Avedos](https://yaroslavyekasov22.thkit.ee/Avedos/veoLisamine.php)**:money_mouth_face:
+# [Avedos](https://yaroslavyekasov22.thkit.ee/Avedos/veoLisamine.php):money_mouth_face:
 
 Esiteks, logige sisse.
 
@@ -17,6 +17,8 @@ Kui olete registreerunud administraatorina, saate tellimusi lõpetada.
 ![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/7491f9b7-46e3-4dec-ba37-8f912d2148de)
 
 On veebisait ***tellimuste täitmiseks, muutmiseks, vastuvõtmiseks ja kustutamiseks***.
+
+# Kood selgitada
 
 Kõigepealt peaksite sisse logima <sub>süsteemi</sub>, kui teil on juba konto. Kui ei ole, peate selle looma ja seejärel sisse logima.
 
