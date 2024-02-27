@@ -1,5 +1,9 @@
 **Avedos Logistika,**:money_mouth_face:
 
+This site is for ordering transportation by filling in the blank.
+
+![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/8bcb2d4c-6950-4785-ad6f-8a1df9d40b4b)
+
 on veebisait ***tellimuste täitmiseks, muutmiseks, vastuvõtmiseks ja kustutamiseks***.
 
 Kõigepealt peaksite sisse logima <sub>süsteemi</sub>, kui teil on juba konto. Kui ei ole, peate selle looma ja seejärel sisse logima.
