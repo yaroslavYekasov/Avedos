@@ -1,10 +1,22 @@
-**Avedos Logistika,**:money_mouth_face:
+**Avedos Logistika**:money_mouth_face:
 
-This site is for ordering transportation by filling in the blank.
+Esiteks, logige sisse.
+
+![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/87dd304d-b488-4d0e-a8d1-f18203c0f25a)
+
+Kui sul ei ole kontot, võid selle luua.
+
+![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/d8bf2052-4f0c-4e63-8270-4470510c6ea7)
+
+See sait on mõeldud transpordi tellimiseks, täites tühiku.
 
 ![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/8bcb2d4c-6950-4785-ad6f-8a1df9d40b4b)
 
-on veebisait ***tellimuste täitmiseks, muutmiseks, vastuvõtmiseks ja kustutamiseks***.
+Kui olete registreerunud administraatorina, saate tellimusi lõpetada.
+
+![pilt](https://github.com/yaroslavYekasov/Avedos/assets/120181426/7491f9b7-46e3-4dec-ba37-8f912d2148de)
+
+On veebisait ***tellimuste täitmiseks, muutmiseks, vastuvõtmiseks ja kustutamiseks***.
 
 Kõigepealt peaksite sisse logima <sub>süsteemi</sub>, kui teil on juba konto. Kui ei ole, peate selle looma ja seejärel sisse logima.
 
