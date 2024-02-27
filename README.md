@@ -20,4 +20,9 @@ Kui olete registreerunud tavakasutajana, saate täita ainult tühikud tellimuse 
     header("Location: $_SERVER[PHP_SELF]");
     $kask->close();
     $yhendus->close();
-Kui olete administraator, saate kasutada nii ***admin kui ka kasutaja lehekülge***. Administraatori lehel saate jätkata **tellimuste täitmist, määrata juhi, sisestada auto numbrimärgi ja esitada või kustutada tellimusi**.
+Kui olete administraator, saate kasutada nii ***admin kui ka kasutaja lehekülge***. Administraatori lehel saate  
+- jätkata täitmist
+- määrata juhi
+- sisestada auto numbrimärgi
+- esitada tellimusi
+- kustutada tellimusi
