@@ -21,8 +21,8 @@ Kui olete registreerunud tavakasutajana, saate täita ainult tühikud tellimuse 
     $kask->close();
     $yhendus->close();
 Kui olete administraator, saate kasutada nii ***admin kui ka kasutaja lehekülge***. Administraatori lehel saate  
-- jätkata täitmist:euro:
-- määrata juhi:euro:
-- sisestada auto numbrimärgi:euro:
-- esitada tellimusi:euro:
-- kustutada tellimusi:euro:
+- jätkata täitmist
+- määrata juhi
+- sisestada auto numbrimärgi
+- esitada tellimusi
+- kustutada tellimusi
