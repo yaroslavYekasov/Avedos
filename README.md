@@ -1,4 +1,4 @@
-**Avedos Logistika**:money_mouth_face:
+**[Avedos](https://yaroslavyekasov22.thkit.ee/Avedos/veoLisamine.php)**:money_mouth_face:
 
 Esiteks, logige sisse.
 
