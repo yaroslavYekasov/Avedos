@@ -1,5 +1,15 @@
 # [Avedos](https://yaroslavyekasov22.thkit.ee/Avedos/veoLisamine.php)
-See projekt on transpordi tellimiseks
+
+_**Minu projekt, on vorm saidi luua kasutajate ja tellimusi vedude kui kasutaja**_
+> selles projektis saab registreerida uue kasutaja
+>
+> kasutajana saate esitada uue tellimuse transpordiks
+>
+> administraatorina saate jätkata tellimuse seadistamist ja valida, kas see on valmis saatmiseks või mitte.
+>
+> samuti saate administraatorina muuta mõned kasutajad administraatoriteks.
+> 
+
 
 Esiteks, logige sisse.
 
